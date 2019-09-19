@@ -15,7 +15,7 @@ __Reasons__<br/>
 * Might lead to pressing of wrong button<br/>
 * The user would not know the direction i.e up/down of elevator<br/>
 * Not a lot of features for people with disabilities<br/>
-** B grade Criteria**<br/>
+# B grade Criteria<br/>
 __Common Uses:__<br/>
 * To go to a certain floor up in building<br/>
 * to go to certain floor down in building<br/><br/>
@@ -45,8 +45,7 @@ __Improvements and justifications on design decisions__
 * Include a screen panel so that the user can see which floor they have reached or are currently in. This would prevent user from getting off at wrong floors<br/>
 * Also tell the user when they have reached a certain floor. So something like voice message. Also helpful for blind people.<br/>
 * Make space between the buttons to avoid confusion.<br/>
-
-
+![IMG_20190919_020214](https://user-images.githubusercontent.com/40208288/65221051-c4dd8900-da81-11e9-8735-1df18ee03aec.jpg)
 
 
 
