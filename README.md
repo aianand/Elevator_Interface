@@ -9,7 +9,6 @@ Elevator interface for HCI class- Aishwarya-Anand
 * The buttons B, 1, 2 are in horizontal order which is not how the order of elevator works<br/>
 * The alarm button and the door close buttons<br/>
 * Interface does not have audio<br/>
-<br/>
 **Reasons**
 <br/>
 * The horizontal order is not suitable as this is not how order of elevator works<br/>
@@ -17,8 +16,6 @@ Elevator interface for HCI class- Aishwarya-Anand
 * Might lead to pressing of wrong button<br/>
 * The user would not know the direction i.e up/down of elevator<br/>
 * Not a lot of features for people with disabilities<br/>
-<br/>
-<br/>
 **B grade Criteria**<br/>
 **Common Uses:**<br/>
 * To go to a certain floor up in building<br/>
