@@ -42,9 +42,15 @@ __Common mistakes__<br/>
 * Also the emergency button is too low, so might be that a child might press it accidentally. <br/>
 __Improvements and justifications on design decisions__
 * Make the floors of elevator buttons go in vertical order instead of horizontal starting from 2 at the Top to B at the bottom for basement because that is how the order should be. This is because this elevator does not go hoorizontally but instead vertically.<br/>
-* Include a screen panel so that the user can see which floor they have reached or are currently in. This would prevent user from getting off at wrong floors<br/>
-* Also tell the user when they have reached a certain floor. So something like voice message. Also helpful for blind people.<br/>
+* Include a screen panel so that the user can see which floor they have reached or are currently in. This would prevent user from getting off at wrong floors. Also include an arrow so that the user know if thy going up or down<br/>
+* Also tell the user when they have reached a certain floor. So something like voice message saying "You have reached this floor". Also helpful for blind people.<br/>
+* Include a speaker for the same so taht peoople can hear the voice saying which floor they are on
 * Make space between the buttons to avoid confusion.<br/>
+* Have the open and close buttons in one row to avoid confusion.<br/>
+* Have placed alarm button and emergency/help buttons in one row rather than having iit at two different places to make actions quiker by user in case of emergency.<br/>
+* Have placed all the buttons regarding non user panel on the top because it is rarely used while using the elevator so that way users are not distracted by the non user panel.<br/>
+__Sketch__
+
 ![IMG_20190919_020214](https://user-images.githubusercontent.com/40208288/65221051-c4dd8900-da81-11e9-8735-1df18ee03aec.jpg)
 
 
