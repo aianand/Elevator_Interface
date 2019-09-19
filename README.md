@@ -48,10 +48,23 @@ __Improvements and justifications on design decisions__
 * Make space between the buttons to avoid confusion.<br/>
 * Have the open and close buttons in one row to avoid confusion.<br/>
 * Have placed alarm button and emergency/help buttons in one row rather than having iit at two different places to make actions quiker by user in case of emergency.<br/>
-* Have placed all the buttons regarding non user panel on the top because it is rarely used while using the elevator so that way users are not distracted by the non user panel.<br/>
+* Have placed all the buttons regarding non user panel on the top because it is rarely used while using the elevator and mostly used by repair men so that way users are not distracted by the non user panel.<br/>
 __Sketch__
 
 ![IMG_20190919_020214](https://user-images.githubusercontent.com/40208288/65221051-c4dd8900-da81-11e9-8735-1df18ee03aec.jpg)
 
+# A Grade Criteria
+ The size  requiremnts __9.74 × 7.02 × 0.23 in__
+ * I have used adobe xd and in orderv to view the demo, you must sign in with adobe account.
+ *  For the purpose of this project I have tried to implement all the designs that I mentioned in the upper section in the Touchscreen    interface
+ * As it is  just a prototype, that is why all the buttons , do not function.
+ * In the demo, I try to show that assuming the user is on first floor then the elevator is now displaying 1 on the screen
+ * And user wants to go to second floor then the user can touch secoond floor from panel and then the elevator screen would display number 1 and an upwards arrow  indicating that it is going up and then then when it reaches second florr, the screen would  display number 2 and simultaneously the user will hear a voice from the speaker saying "Second floor". So this way the user knows that they have  reccahed ther destination
+ * These are the only working buttons/ functionalities that I was able to show for this prototype because of time constraint and my limited knowledge of processing and adobe xd.
+ 
+ * The elevator gives user feedback by showing numbers and arrows on screen and also giving voice message
+ * So in this way, it is definitely useful for people with disabilities such as blindness.
+ 
+ 
 
 
