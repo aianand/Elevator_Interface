@@ -37,8 +37,8 @@ Yes , it does. It does take you to floors in building. However, with the closing
 ## How does the elevator support the user figure out how to make it work?<br/>
 The  elevator has a really simple panel design so not in need of instructions. It also mentions the floor number besides the button. For people who are blind, it provides braille so that the user  can know which button to press<br/>
 ## How does the elevator provide feedback to the user?<br/>
-Whenever the user clicks a button, the button lights up and that is how the user feedback is provided. It makes a sound when floor  is reached.
-## Common mistakes<br/>
+Whenever the user clicks a button, the button lights up and that is how the user feedback is provided. It makes a sound when floor  is reached.<br/>
+**Common mistakes**<br/>
 * The very common mistake with this design is that it has the closing door button too close with the alarm button so high chances of confusion.<br/>
 * Also the emergency button is too low, so might be that a chiild mmight press it accidentally. <br/>
 
