@@ -39,7 +39,12 @@ __How does the elevator provide feedback to the user?__<br/>
 Whenever the user clicks a button, the button lights up and that is how the user feedback is provided. It makes a sound when floor  is reached.<br/>
 __Common mistakes__<br/>
 * The very common mistake with this design is that it has the closing door button too close with the alarm button so high chances of confusion.<br/>
-* Also the emergency button is too low, so might be that a chiild mmight press it accidentally. <br/>
+* Also the emergency button is too low, so might be that a child might press it accidentally. <br/>
+__Improvements and justifications on design decisions__
+* Make the floors of elevator buttons go in vertical order instead of horizontal starting from 2 at the Top to B at the bottom for basement because that is how the order should be. This is because this elevator does not go hoorizontally but instead vertically.<br/>
+* Include a screen panel so that the user can see which floor they have reached or are currently in. This would prevent user from getting off at wrong floors<br/>
+* Also tell the user when they have reached a certain floor. So something like voice message. Also helpful for blind people.<br/>
+* Make space between the buttons to avoid confusion.<br/>
 
 
 
