@@ -40,7 +40,7 @@ The  elevator has a really simple panel design so not in need of instructions. I
 Whenever the user clicks a button, the button lights up and that is how the user feedback is provided. It makes a sound when floor  is reached.
 **Common mistakes**<br/>
 * The very common mistake with this design is that it has the closing door button too close with the alarm button so high chances of confusion.<br/>
-* Also the emergency button is too low, so might be that a chiild mmight press it accidentally. 
+* Also the emergency button is too low, so might be that a chiild mmight press it accidentally. <br/>
 
 
 
