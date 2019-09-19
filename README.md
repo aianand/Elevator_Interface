@@ -65,7 +65,7 @@ __Sketch__
  * The elevator gives user feedback by showing numbers and arrows on screen and also giving voice message
  * So in this way, it is definitely useful for people with disabilities such as blindness.
  
- # LINK: https://xd.adobe.com/view/3016b18d-aa6d-4a97-5e95-13872ac53a53-4627/?fullscreen
+ # LINK: https://xd.adobe.com/view/3016b18d-aa6d-4a97-5e95-13872ac53a53-4627/
  
  
 
