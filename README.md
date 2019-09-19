@@ -28,4 +28,17 @@ Elevator interface for HCI class- Aishwarya-Anand
 **Rare Uses:**<br/>
 * Emergency/Help button<br/>
 * Alarm Button<br/>
+**Does the interface makes common things easier?**
+Yes , it does. It does take you to floors in building. However, with the closing door button, the user can be easily confused between<br/>
+closing door and the alrm button<br/>
+**User interaction/ Sequence of Actions**<br/>
+* Call the elevator using the outside button located ouutside elevator<br/>
+* The elevator door will open automatically<br/>
+* Enter the elevator<br/>
+* Click the number of the floor you want to go to<br/>
+* If there is a time lag or if the elevator is not closing for some reason then the user can use the close button<br/>
+* Get off the elevator when the door opens and the elevator stops<br/>
+
+
+
 
